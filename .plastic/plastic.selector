@@ -1,0 +1,4 @@
+repository "Domino@gunesserkan@cloud"
+  path "/"
+    br "/main"
+    co "/main"
