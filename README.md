@@ -1,6 +1,6 @@
 # Domino Android Game
 
-This project is an **Android version of Domino**, a very popular board game.
+This project is a **Single player Android version of Domino**, a very popular board game.
 
 ## About the Repository
 
