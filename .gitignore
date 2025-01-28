@@ -1,3 +1,8 @@
-Library/
-Logs/
-obj/
+.gitignore
+Logs
+obj
+.vsconfig
+Assembly-CSharp.csproj
+Dominoes.sln
+ignore.conf
+UIDeneme.sln
